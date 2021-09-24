@@ -17,5 +17,6 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How To Contribute
 
 Please fork this repository and then issue Pull Requests for review. Just another change to Readme.md
+Please contribute when you have time.
 
 2014 Git. Training.
